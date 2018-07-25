@@ -12,7 +12,7 @@ package tools;
 public class Nomor1 {
 
     /**
-     * fungsi ini digunakan untuk menghitung perkalian ya
+     * fungsi ini digunakan untuk menghitung perkalian
      * @param a integer menentukan panjang karatkter yang akan diinput 
      * @param b integer menentukan panjang karatkter yang akan diinput
      * @return kali;
