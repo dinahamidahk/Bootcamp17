@@ -13,6 +13,7 @@ public class Testing {
 
     public static void main(String[] args) {
         Nomor1 nomor1 = new Nomor1();
+        
 
         //System.out.println(nomor1.perkalian(-2, -3));
         //System.out.println(nomor1.pemangkatan(2, 3));
