@@ -15,9 +15,9 @@ public class Testing {
         Nomor1 nomor1 = new Nomor1();
 
         //System.out.println(nomor1.perkalian(-2, -3));
-        //System.out.println(nomor1.pemangkatan(2, -3));
-        //System.out.println(nomor1.faktorial(0));
-        //System.out.println(nomor1.permutasi(5, 2));
-        //System.out.println(nomor1.kombinasi(7, 3));
+        //System.out.println(nomor1.pemangkatan(2, 3));
+        //System.out.println(nomor1.faktorial(-1));
+        //System.out.println(nomor1.permutasi(-1, 2));
+        //System.out.println(nomor1.kombinasi(-1, 3));
     }
 }
